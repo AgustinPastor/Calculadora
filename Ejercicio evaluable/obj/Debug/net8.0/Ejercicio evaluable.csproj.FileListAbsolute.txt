@@ -1,0 +1,14 @@
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\bin\Debug\net8.0\Ejercicio evaluable.exe
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\bin\Debug\net8.0\Ejercicio evaluable.deps.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\bin\Debug\net8.0\Ejercicio evaluable.runtimeconfig.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\bin\Debug\net8.0\Ejercicio evaluable.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\bin\Debug\net8.0\Ejercicio evaluable.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.AssemblyInfoInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.AssemblyInfo.cs
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.csproj.CoreCompileInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\refint\Ejercicio evaluable.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.genruntimeconfig.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\ref\Ejercicio evaluable.dll
