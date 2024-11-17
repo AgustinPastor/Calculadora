@@ -12,3 +12,4 @@ C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ej
 C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.pdb
 C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.genruntimeconfig.cache
 C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\ref\Ejercicio evaluable.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Proyectos\Ejercicio evaluable\obj\Debug\net8.0\Ejercicio evaluable.sourcelink.json
